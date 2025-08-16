@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Tech Interview MCQ Trainer (Daily)",
+  "version": "2.0.0",
+  "description": "Practice 5 MCQ tech interview questions daily at your chosen time and get your score with correct answers. Includes 450 CS MCQs.",
+  "action": {
+    "default_title": "Tech Interview MCQ Trainer",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icons/icons8-quizlet-64.png",
+    "48": "icons/icons8-quizlet-128.png",
+    "128": "icons/icons8-quizlet-256.png"
+  },
+  "permissions": [
+    "storage",
+    "alarms",
+    "tabs"
+  ],
+  "options_page": "options.html",
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "offline_enabled": true
+}

@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "category": "DSA",
+    "prompt": "Time complexity of array access by index?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 2,
+    "category": "DSA",
+    "prompt": "Time complexity of binary search in sorted array?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 3,
+    "category": "DSA",
+    "prompt": "Time complexity of push to stack?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 4,
+    "category": "DSA",
+    "prompt": "Time complexity of enqueue to queue?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "category": "DSA",
+    "prompt": "Time complexity of lookup in hash table (avg)?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 6,
+    "category": "DSA",
+    "prompt": "Time complexity of lookup in hash table (worst)?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 7,
+    "category": "DSA",
+    "prompt": "Time complexity of search in balanced BST?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "category": "DSA",
+    "prompt": "Time complexity of traversal of linked list?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 9,
+    "category": "DSA",
+    "prompt": "Time complexity of heap insert?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 10,
+    "category": "DSA",
+    "prompt": "Time complexity of heapsort average complexity?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(log n)",
+      "O(n^2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 11,
+    "category": "DSA",
+    "prompt": "Time complexity of array access by index?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 12,
+    "category": "DSA",
+    "prompt": "Time complexity of binary search in sorted array?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 13,
+    "category": "DSA",
+    "prompt": "Time complexity of push to stack?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 14,
+    "category": "DSA",
+    "prompt": "Time complexity of enqueue to queue?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 15,
+    "category": "DSA",
+    "prompt": "Time complexity of lookup in hash table (avg)?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 16,
+    "category": "DSA",
+    "prompt": "Time complexity of lookup in hash table (worst)?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 17,
+    "category": "DSA",
+    "prompt": "Time complexity of search in balanced BST?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "category": "DSA",
+    "prompt": "Time complexity of traversal of linked list?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 19,
+    "category": "DSA",
+    "prompt": "Time complexity of heap insert?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 20,
+    "category": "DSA",
+    "prompt": "Time complexity of heapsort average complexity?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(log n)",
+      "O(n^2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 21,
+    "category": "DSA",
+    "prompt": "Time complexity of array access by index?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 22,
+    "category": "DSA",
+    "prompt": "Time complexity of binary search in sorted array?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "category": "DSA",
+    "prompt": "Time complexity of push to stack?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 24,
+    "category": "DSA",
+    "prompt": "Time complexity of enqueue to queue?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 25,
+    "category": "DSA",
+    "prompt": "Time complexity of lookup in hash table (avg)?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 26,
+    "category": "DSA",
+    "prompt": "Time complexity of lookup in hash table (worst)?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 27,
+    "category": "DSA",
+    "prompt": "Time complexity of search in balanced BST?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 28,
+    "category": "DSA",
+    "prompt": "Time complexity of traversal of linked list?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 29,
+    "category": "DSA",
+    "prompt": "Time complexity of heap insert?",
+    "options": [
+      "O(log n)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 30,
+    "category": "DSA",
+    "prompt": "Time complexity of heapsort average complexity?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(log n)",
+      "O(n^2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 31,
+    "category": "DSA",
+    "prompt": "Which structure is FIFO?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Tree",
+      "Graph"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 32,
+    "category": "DSA",
+    "prompt": "Which traversal is DFS variant?",
+    "options": [
+      "Inorder",
+      "Level-order",
+      "Breadth-first",
+      "Round-robin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 33,
+    "category": "DSA",
+    "prompt": "What does a min-heap guarantee?",
+    "options": [
+      "Parent <= children",
+      "Parent >= children",
+      "Complete search",
+      "Unique keys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 34,
+    "category": "DSA",
+    "prompt": "Which DS is best for LRU cache?",
+    "options": [
+      "HashMap + Doubly Linked List",
+      "Stack only",
+      "Queue only",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 35,
+    "category": "DSA",
+    "prompt": "Which DS detects cycles in DSU?",
+    "options": [
+      "Union-Find",
+      "Segment Tree",
+      "Fenwick Tree",
+      "Skip List"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 36,
+    "category": "DSA",
+    "prompt": "Which structure is FIFO?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Tree",
+      "Graph"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 37,
+    "category": "DSA",
+    "prompt": "Which traversal is DFS variant?",
+    "options": [
+      "Inorder",
+      "Level-order",
+      "Breadth-first",
+      "Round-robin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 38,
+    "category": "DSA",
+    "prompt": "What does a min-heap guarantee?",
+    "options": [
+      "Parent <= children",
+      "Parent >= children",
+      "Complete search",
+      "Unique keys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 39,
+    "category": "DSA",
+    "prompt": "Which DS is best for LRU cache?",
+    "options": [
+      "HashMap + Doubly Linked List",
+      "Stack only",
+      "Queue only",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 40,
+    "category": "DSA",
+    "prompt": "Which DS detects cycles in DSU?",
+    "options": [
+      "Union-Find",
+      "Segment Tree",
+      "Fenwick Tree",
+      "Skip List"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 41,
+    "category": "DSA",
+    "prompt": "Which structure is FIFO?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Tree",
+      "Graph"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 42,
+    "category": "DSA",
+    "prompt": "Which traversal is DFS variant?",
+    "options": [
+      "Inorder",
+      "Level-order",
+      "Breadth-first",
+      "Round-robin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 43,
+    "category": "DSA",
+    "prompt": "What does a min-heap guarantee?",
+    "options": [
+      "Parent <= children",
+      "Parent >= children",
+      "Complete search",
+      "Unique keys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 44,
+    "category": "DSA",
+    "prompt": "Which DS is best for LRU cache?",
+    "options": [
+      "HashMap + Doubly Linked List",
+      "Stack only",
+      "Queue only",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 45,
+    "category": "DSA",
+    "prompt": "Which DS detects cycles in DSU?",
+    "options": [
+      "Union-Find",
+      "Segment Tree",
+      "Fenwick Tree",
+      "Skip List"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 46,
+    "category": "OOP",
+    "prompt": "Which is NOT a pillar of OOP?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Compilation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 47,
+    "category": "OOP",
+    "prompt": "What is encapsulation?",
+    "options": [
+      "Hiding internal state",
+      "Reusing code",
+      "Overloading functions",
+      "Linking libraries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 48,
+    "category": "OOP",
+    "prompt": "Inheritance enables?",
+    "options": [
+      "Code reuse",
+      "Type erasure",
+      "Manual memory mgmt",
+      "Protocol routing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 49,
+    "category": "OOP",
+    "prompt": "Polymorphism allows?",
+    "options": [
+      "Same interface, different implementations",
+      "Multiple threads",
+      "Faster I/O",
+      "Bigger stacks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 50,
+    "category": "OOP",
+    "prompt": "Abstract class can?",
+    "options": [
+      "Have abstract + concrete methods",
+      "Be instantiated",
+      "Only constants",
+      "Only static methods"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 51,
+    "category": "OOP",
+    "prompt": "Interface specifies?",
+    "options": [
+      "Contract/behavior",
+      "Memory layout",
+      "Thread priority",
+      "Network port"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 52,
+    "category": "OOP",
+    "prompt": "Which is NOT a pillar of OOP?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Compilation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 53,
+    "category": "OOP",
+    "prompt": "What is encapsulation?",
+    "options": [
+      "Hiding internal state",
+      "Reusing code",
+      "Overloading functions",
+      "Linking libraries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 54,
+    "category": "OOP",
+    "prompt": "Inheritance enables?",
+    "options": [
+      "Code reuse",
+      "Type erasure",
+      "Manual memory mgmt",
+      "Protocol routing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 55,
+    "category": "OOP",
+    "prompt": "Polymorphism allows?",
+    "options": [
+      "Same interface, different implementations",
+      "Multiple threads",
+      "Faster I/O",
+      "Bigger stacks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 56,
+    "category": "OOP",
+    "prompt": "Abstract class can?",
+    "options": [
+      "Have abstract + concrete methods",
+      "Be instantiated",
+      "Only constants",
+      "Only static methods"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 57,
+    "category": "OOP",
+    "prompt": "Interface specifies?",
+    "options": [
+      "Contract/behavior",
+      "Memory layout",
+      "Thread priority",
+      "Network port"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 58,
+    "category": "OOP",
+    "prompt": "Which is NOT a pillar of OOP?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Compilation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 59,
+    "category": "OOP",
+    "prompt": "What is encapsulation?",
+    "options": [
+      "Hiding internal state",
+      "Reusing code",
+      "Overloading functions",
+      "Linking libraries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 60,
+    "category": "OOP",
+    "prompt": "Inheritance enables?",
+    "options": [
+      "Code reuse",
+      "Type erasure",
+      "Manual memory mgmt",
+      "Protocol routing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 61,
+    "category": "OOP",
+    "prompt": "Polymorphism allows?",
+    "options": [
+      "Same interface, different implementations",
+      "Multiple threads",
+      "Faster I/O",
+      "Bigger stacks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 62,
+    "category": "OOP",
+    "prompt": "Abstract class can?",
+    "options": [
+      "Have abstract + concrete methods",
+      "Be instantiated",
+      "Only constants",
+      "Only static methods"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 63,
+    "category": "OOP",
+    "prompt": "Interface specifies?",
+    "options": [
+      "Contract/behavior",
+      "Memory layout",
+      "Thread priority",
+      "Network port"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 64,
+    "category": "OOP",
+    "prompt": "Which is NOT a pillar of OOP?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Compilation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 65,
+    "category": "OOP",
+    "prompt": "What is encapsulation?",
+    "options": [
+      "Hiding internal state",
+      "Reusing code",
+      "Overloading functions",
+      "Linking libraries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 66,
+    "category": "OOP",
+    "prompt": "Inheritance enables?",
+    "options": [
+      "Code reuse",
+      "Type erasure",
+      "Manual memory mgmt",
+      "Protocol routing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 67,
+    "category": "OOP",
+    "prompt": "Polymorphism allows?",
+    "options": [
+      "Same interface, different implementations",
+      "Multiple threads",
+      "Faster I/O",
+      "Bigger stacks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 68,
+    "category": "OOP",
+    "prompt": "Abstract class can?",
+    "options": [
+      "Have abstract + concrete methods",
+      "Be instantiated",
+      "Only constants",
+      "Only static methods"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 69,
+    "category": "OOP",
+    "prompt": "Interface specifies?",
+    "options": [
+      "Contract/behavior",
+      "Memory layout",
+      "Thread priority",
+      "Network port"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 70,
+    "category": "OOP",
+    "prompt": "Which is NOT a pillar of OOP?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Compilation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 71,
+    "category": "OOP",
+    "prompt": "What is encapsulation?",
+    "options": [
+      "Hiding internal state",
+      "Reusing code",
+      "Overloading functions",
+      "Linking libraries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 72,
+    "category": "OOP",
+    "prompt": "Inheritance enables?",
+    "options": [
+      "Code reuse",
+      "Type erasure",
+      "Manual memory mgmt",
+      "Protocol routing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 73,
+    "category": "OOP",
+    "prompt": "Polymorphism allows?",
+    "options": [
+      "Same interface, different implementations",
+      "Multiple threads",
+      "Faster I/O",
+      "Bigger stacks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 74,
+    "category": "OOP",
+    "prompt": "Abstract class can?",
+    "options": [
+      "Have abstract + concrete methods",
+      "Be instantiated",
+      "Only constants",
+      "Only static methods"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 75,
+    "category": "OOP",
+    "prompt": "Interface specifies?",
+    "options": [
+      "Contract/behavior",
+      "Memory layout",
+      "Thread priority",
+      "Network port"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 76,
+    "category": "OOP",
+    "prompt": "Which is NOT a pillar of OOP?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Compilation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 77,
+    "category": "OOP",
+    "prompt": "What is encapsulation?",
+    "options": [
+      "Hiding internal state",
+      "Reusing code",
+      "Overloading functions",
+      "Linking libraries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 78,
+    "category": "OOP",
+    "prompt": "Inheritance enables?",
+    "options": [
+      "Code reuse",
+      "Type erasure",
+      "Manual memory mgmt",
+      "Protocol routing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 79,
+    "category": "OOP",
+    "prompt": "Polymorphism allows?",
+    "options": [
+      "Same interface, different implementations",
+      "Multiple threads",
+      "Faster I/O",
+      "Bigger stacks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 80,
+    "category": "OOP",
+    "prompt": "Abstract class can?",
+    "options": [
+      "Have abstract + concrete methods",
+      "Be instantiated",
+      "Only constants",
+      "Only static methods"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 81,
+    "category": "OOP",
+    "prompt": "Interface specifies?",
+    "options": [
+      "Contract/behavior",
+      "Memory layout",
+      "Thread priority",
+      "Network port"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 82,
+    "category": "OOP",
+    "prompt": "Which is NOT a pillar of OOP?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Compilation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 83,
+    "category": "OOP",
+    "prompt": "What is encapsulation?",
+    "options": [
+      "Hiding internal state",
+      "Reusing code",
+      "Overloading functions",
+      "Linking libraries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 84,
+    "category": "OOP",
+    "prompt": "Inheritance enables?",
+    "options": [
+      "Code reuse",
+      "Type erasure",
+      "Manual memory mgmt",
+      "Protocol routing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 85,
+    "category": "OOP",
+    "prompt": "Polymorphism allows?",
+    "options": [
+      "Same interface, different implementations",
+      "Multiple threads",
+      "Faster I/O",
+      "Bigger stacks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 86,
+    "category": "OOP",
+    "prompt": "Abstract class can?",
+    "options": [
+      "Have abstract + concrete methods",
+      "Be instantiated",
+      "Only constants",
+      "Only static methods"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 87,
+    "category": "OOP",
+    "prompt": "Interface specifies?",
+    "options": [
+      "Contract/behavior",
+      "Memory layout",
+      "Thread priority",
+      "Network port"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 88,
+    "category": "OOP",
+    "prompt": "Which is NOT a pillar of OOP?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Compilation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 89,
+    "category": "OOP",
+    "prompt": "What is encapsulation?",
+    "options": [
+      "Hiding internal state",
+      "Reusing code",
+      "Overloading functions",
+      "Linking libraries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 90,
+    "category": "OOP",
+    "prompt": "Inheritance enables?",
+    "options": [
+      "Code reuse",
+      "Type erasure",
+      "Manual memory mgmt",
+      "Protocol routing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 91,
+    "category": "DBMS",
+    "prompt": "'I' in ACID stands for?",
+    "options": [
+      "Isolation",
+      "Idempotency",
+      "Index",
+      "Integrity constraint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 92,
+    "category": "DBMS",
+    "prompt": "Which clause filters after aggregation?",
+    "options": [
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "GROUP BY"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 93,
+    "category": "DBMS",
+    "prompt": "Which normal form removes partial dependency?",
+    "options": [
+      "2NF",
+      "1NF",
+      "3NF",
+      "BCNF"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 94,
+    "category": "DBMS",
+    "prompt": "Index improves?",
+    "options": [
+      "Read performance",
+      "Write locks only",
+      "Transaction count only",
+      "Network latency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 95,
+    "category": "DBMS",
+    "prompt": "Primary key must be?",
+    "options": [
+      "Unique & NOT NULL",
+      "Only unique",
+      "Only NOT NULL",
+      "Nullable"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 96,
+    "category": "DBMS",
+    "prompt": "JOIN that returns only matches?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 97,
+    "category": "DBMS",
+    "prompt": "SQL to remove table rows by condition?",
+    "options": [
+      "DELETE",
+      "DROP",
+      "TRUNCATE",
+      "ALTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 98,
+    "category": "DBMS",
+    "prompt": "'I' in ACID stands for?",
+    "options": [
+      "Isolation",
+      "Idempotency",
+      "Index",
+      "Integrity constraint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 99,
+    "category": "DBMS",
+    "prompt": "Which clause filters after aggregation?",
+    "options": [
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "GROUP BY"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 100,
+    "category": "DBMS",
+    "prompt": "Which normal form removes partial dependency?",
+    "options": [
+      "2NF",
+      "1NF",
+      "3NF",
+      "BCNF"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 101,
+    "category": "DBMS",
+    "prompt": "Index improves?",
+    "options": [
+      "Read performance",
+      "Write locks only",
+      "Transaction count only",
+      "Network latency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 102,
+    "category": "DBMS",
+    "prompt": "Primary key must be?",
+    "options": [
+      "Unique & NOT NULL",
+      "Only unique",
+      "Only NOT NULL",
+      "Nullable"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 103,
+    "category": "DBMS",
+    "prompt": "JOIN that returns only matches?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 104,
+    "category": "DBMS",
+    "prompt": "SQL to remove table rows by condition?",
+    "options": [
+      "DELETE",
+      "DROP",
+      "TRUNCATE",
+      "ALTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 105,
+    "category": "DBMS",
+    "prompt": "'I' in ACID stands for?",
+    "options": [
+      "Isolation",
+      "Idempotency",
+      "Index",
+      "Integrity constraint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 106,
+    "category": "DBMS",
+    "prompt": "Which clause filters after aggregation?",
+    "options": [
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "GROUP BY"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 107,
+    "category": "DBMS",
+    "prompt": "Which normal form removes partial dependency?",
+    "options": [
+      "2NF",
+      "1NF",
+      "3NF",
+      "BCNF"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 108,
+    "category": "DBMS",
+    "prompt": "Index improves?",
+    "options": [
+      "Read performance",
+      "Write locks only",
+      "Transaction count only",
+      "Network latency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 109,
+    "category": "DBMS",
+    "prompt": "Primary key must be?",
+    "options": [
+      "Unique & NOT NULL",
+      "Only unique",
+      "Only NOT NULL",
+      "Nullable"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 110,
+    "category": "DBMS",
+    "prompt": "JOIN that returns only matches?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 111,
+    "category": "DBMS",
+    "prompt": "SQL to remove table rows by condition?",
+    "options": [
+      "DELETE",
+      "DROP",
+      "TRUNCATE",
+      "ALTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 112,
+    "category": "DBMS",
+    "prompt": "'I' in ACID stands for?",
+    "options": [
+      "Isolation",
+      "Idempotency",
+      "Index",
+      "Integrity constraint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 113,
+    "category": "DBMS",
+    "prompt": "Which clause filters after aggregation?",
+    "options": [
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "GROUP BY"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 114,
+    "category": "DBMS",
+    "prompt": "Which normal form removes partial dependency?",
+    "options": [
+      "2NF",
+      "1NF",
+      "3NF",
+      "BCNF"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 115,
+    "category": "DBMS",
+    "prompt": "Index improves?",
+    "options": [
+      "Read performance",
+      "Write locks only",
+      "Transaction count only",
+      "Network latency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 116,
+    "category": "DBMS",
+    "prompt": "Primary key must be?",
+    "options": [
+      "Unique & NOT NULL",
+      "Only unique",
+      "Only NOT NULL",
+      "Nullable"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 117,
+    "category": "DBMS",
+    "prompt": "JOIN that returns only matches?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 118,
+    "category": "DBMS",
+    "prompt": "SQL to remove table rows by condition?",
+    "options": [
+      "DELETE",
+      "DROP",
+      "TRUNCATE",
+      "ALTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 119,
+    "category": "DBMS",
+    "prompt": "'I' in ACID stands for?",
+    "options": [
+      "Isolation",
+      "Idempotency",
+      "Index",
+      "Integrity constraint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 120,
+    "category": "DBMS",
+    "prompt": "Which clause filters after aggregation?",
+    "options": [
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "GROUP BY"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 121,
+    "category": "DBMS",
+    "prompt": "Which normal form removes partial dependency?",
+    "options": [
+      "2NF",
+      "1NF",
+      "3NF",
+      "BCNF"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 122,
+    "category": "DBMS",
+    "prompt": "Index improves?",
+    "options": [
+      "Read performance",
+      "Write locks only",
+      "Transaction count only",
+      "Network latency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 123,
+    "category": "DBMS",
+    "prompt": "Primary key must be?",
+    "options": [
+      "Unique & NOT NULL",
+      "Only unique",
+      "Only NOT NULL",
+      "Nullable"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 124,
+    "category": "DBMS",
+    "prompt": "JOIN that returns only matches?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 125,
+    "category": "DBMS",
+    "prompt": "SQL to remove table rows by condition?",
+    "options": [
+      "DELETE",
+      "DROP",
+      "TRUNCATE",
+      "ALTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 126,
+    "category": "DBMS",
+    "prompt": "'I' in ACID stands for?",
+    "options": [
+      "Isolation",
+      "Idempotency",
+      "Index",
+      "Integrity constraint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 127,
+    "category": "DBMS",
+    "prompt": "Which clause filters after aggregation?",
+    "options": [
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "GROUP BY"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 128,
+    "category": "DBMS",
+    "prompt": "Which normal form removes partial dependency?",
+    "options": [
+      "2NF",
+      "1NF",
+      "3NF",
+      "BCNF"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 129,
+    "category": "DBMS",
+    "prompt": "Index improves?",
+    "options": [
+      "Read performance",
+      "Write locks only",
+      "Transaction count only",
+      "Network latency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 130,
+    "category": "DBMS",
+    "prompt": "Primary key must be?",
+    "options": [
+      "Unique & NOT NULL",
+      "Only unique",
+      "Only NOT NULL",
+      "Nullable"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 131,
+    "category": "DBMS",
+    "prompt": "JOIN that returns only matches?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 132,
+    "category": "DBMS",
+    "prompt": "SQL to remove table rows by condition?",
+    "options": [
+      "DELETE",
+      "DROP",
+      "TRUNCATE",
+      "ALTER"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 133,
+    "category": "DBMS",
+    "prompt": "'I' in ACID stands for?",
+    "options": [
+      "Isolation",
+      "Idempotency",
+      "Index",
+      "Integrity constraint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 134,
+    "category": "DBMS",
+    "prompt": "Which clause filters after aggregation?",
+    "options": [
+      "HAVING",
+      "WHERE",
+      "ORDER BY",
+      "GROUP BY"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 135,
+    "category": "DBMS",
+    "prompt": "Which normal form removes partial dependency?",
+    "options": [
+      "2NF",
+      "1NF",
+      "3NF",
+      "BCNF"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 136,
+    "category": "Operating Systems",
+    "prompt": "Context switch involves?",
+    "options": [
+      "Saving/restoring CPU state",
+      "Changing monitor input",
+      "Formatting disk",
+      "Defrag only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 137,
+    "category": "Operating Systems",
+    "prompt": "Virtual memory provides?",
+    "options": [
+      "Illusion of larger RAM",
+      "Faster CPU",
+      "GPU scheduling",
+      "Battery saving"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 138,
+    "category": "Operating Systems",
+    "prompt": "Which is a CPU scheduling algorithm?",
+    "options": [
+      "Round Robin",
+      "RSA",
+      "ARP",
+      "DNS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 139,
+    "category": "Operating Systems",
+    "prompt": "Thrashing occurs when?",
+    "options": [
+      "Excessive paging",
+      "CPU overheat",
+      "Network congestion",
+      "Power surge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 140,
+    "category": "Operating Systems",
+    "prompt": "Mutex ensures?",
+    "options": [
+      "Mutual exclusion",
+      "Faster I/O",
+      "Encryption",
+      "Compression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 141,
+    "category": "Operating Systems",
+    "prompt": "Context switch involves?",
+    "options": [
+      "Saving/restoring CPU state",
+      "Changing monitor input",
+      "Formatting disk",
+      "Defrag only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 142,
+    "category": "Operating Systems",
+    "prompt": "Virtual memory provides?",
+    "options": [
+      "Illusion of larger RAM",
+      "Faster CPU",
+      "GPU scheduling",
+      "Battery saving"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 143,
+    "category": "Operating Systems",
+    "prompt": "Which is a CPU scheduling algorithm?",
+    "options": [
+      "Round Robin",
+      "RSA",
+      "ARP",
+      "DNS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 144,
+    "category": "Operating Systems",
+    "prompt": "Thrashing occurs when?",
+    "options": [
+      "Excessive paging",
+      "CPU overheat",
+      "Network congestion",
+      "Power surge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 145,
+    "category": "Operating Systems",
+    "prompt": "Mutex ensures?",
+    "options": [
+      "Mutual exclusion",
+      "Faster I/O",
+      "Encryption",
+      "Compression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 146,
+    "category": "Operating Systems",
+    "prompt": "Context switch involves?",
+    "options": [
+      "Saving/restoring CPU state",
+      "Changing monitor input",
+      "Formatting disk",
+      "Defrag only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 147,
+    "category": "Operating Systems",
+    "prompt": "Virtual memory provides?",
+    "options": [
+      "Illusion of larger RAM",
+      "Faster CPU",
+      "GPU scheduling",
+      "Battery saving"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 148,
+    "category": "Operating Systems",
+    "prompt": "Which is a CPU scheduling algorithm?",
+    "options": [
+      "Round Robin",
+      "RSA",
+      "ARP",
+      "DNS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 149,
+    "category": "Operating Systems",
+    "prompt": "Thrashing occurs when?",
+    "options": [
+      "Excessive paging",
+      "CPU overheat",
+      "Network congestion",
+      "Power surge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 150,
+    "category": "Operating Systems",
+    "prompt": "Mutex ensures?",
+    "options": [
+      "Mutual exclusion",
+      "Faster I/O",
+      "Encryption",
+      "Compression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 151,
+    "category": "Operating Systems",
+    "prompt": "Context switch involves?",
+    "options": [
+      "Saving/restoring CPU state",
+      "Changing monitor input",
+      "Formatting disk",
+      "Defrag only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 152,
+    "category": "Operating Systems",
+    "prompt": "Virtual memory provides?",
+    "options": [
+      "Illusion of larger RAM",
+      "Faster CPU",
+      "GPU scheduling",
+      "Battery saving"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 153,
+    "category": "Operating Systems",
+    "prompt": "Which is a CPU scheduling algorithm?",
+    "options": [
+      "Round Robin",
+      "RSA",
+      "ARP",
+      "DNS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 154,
+    "category": "Operating Systems",
+    "prompt": "Thrashing occurs when?",
+    "options": [
+      "Excessive paging",
+      "CPU overheat",
+      "Network congestion",
+      "Power surge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 155,
+    "category": "Operating Systems",
+    "prompt": "Mutex ensures?",
+    "options": [
+      "Mutual exclusion",
+      "Faster I/O",
+      "Encryption",
+      "Compression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 156,
+    "category": "Operating Systems",
+    "prompt": "Context switch involves?",
+    "options": [
+      "Saving/restoring CPU state",
+      "Changing monitor input",
+      "Formatting disk",
+      "Defrag only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 157,
+    "category": "Operating Systems",
+    "prompt": "Virtual memory provides?",
+    "options": [
+      "Illusion of larger RAM",
+      "Faster CPU",
+      "GPU scheduling",
+      "Battery saving"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 158,
+    "category": "Operating Systems",
+    "prompt": "Which is a CPU scheduling algorithm?",
+    "options": [
+      "Round Robin",
+      "RSA",
+      "ARP",
+      "DNS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 159,
+    "category": "Operating Systems",
+    "prompt": "Thrashing occurs when?",
+    "options": [
+      "Excessive paging",
+      "CPU overheat",
+      "Network congestion",
+      "Power surge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 160,
+    "category": "Operating Systems",
+    "prompt": "Mutex ensures?",
+    "options": [
+      "Mutual exclusion",
+      "Faster I/O",
+      "Encryption",
+      "Compression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 161,
+    "category": "Operating Systems",
+    "prompt": "Context switch involves?",
+    "options": [
+      "Saving/restoring CPU state",
+      "Changing monitor input",
+      "Formatting disk",
+      "Defrag only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 162,
+    "category": "Operating Systems",
+    "prompt": "Virtual memory provides?",
+    "options": [
+      "Illusion of larger RAM",
+      "Faster CPU",
+      "GPU scheduling",
+      "Battery saving"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 163,
+    "category": "Operating Systems",
+    "prompt": "Which is a CPU scheduling algorithm?",
+    "options": [
+      "Round Robin",
+      "RSA",
+      "ARP",
+      "DNS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 164,
+    "category": "Operating Systems",
+    "prompt": "Thrashing occurs when?",
+    "options": [
+      "Excessive paging",
+      "CPU overheat",
+      "Network congestion",
+      "Power surge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 165,
+    "category": "Operating Systems",
+    "prompt": "Mutex ensures?",
+    "options": [
+      "Mutual exclusion",
+      "Faster I/O",
+      "Encryption",
+      "Compression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 166,
+    "category": "Operating Systems",
+    "prompt": "Context switch involves?",
+    "options": [
+      "Saving/restoring CPU state",
+      "Changing monitor input",
+      "Formatting disk",
+      "Defrag only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 167,
+    "category": "Operating Systems",
+    "prompt": "Virtual memory provides?",
+    "options": [
+      "Illusion of larger RAM",
+      "Faster CPU",
+      "GPU scheduling",
+      "Battery saving"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 168,
+    "category": "Operating Systems",
+    "prompt": "Which is a CPU scheduling algorithm?",
+    "options": [
+      "Round Robin",
+      "RSA",
+      "ARP",
+      "DNS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 169,
+    "category": "Operating Systems",
+    "prompt": "Thrashing occurs when?",
+    "options": [
+      "Excessive paging",
+      "CPU overheat",
+      "Network congestion",
+      "Power surge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 170,
+    "category": "Operating Systems",
+    "prompt": "Mutex ensures?",
+    "options": [
+      "Mutual exclusion",
+      "Faster I/O",
+      "Encryption",
+      "Compression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 171,
+    "category": "Operating Systems",
+    "prompt": "Context switch involves?",
+    "options": [
+      "Saving/restoring CPU state",
+      "Changing monitor input",
+      "Formatting disk",
+      "Defrag only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 172,
+    "category": "Operating Systems",
+    "prompt": "Virtual memory provides?",
+    "options": [
+      "Illusion of larger RAM",
+      "Faster CPU",
+      "GPU scheduling",
+      "Battery saving"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 173,
+    "category": "Operating Systems",
+    "prompt": "Which is a CPU scheduling algorithm?",
+    "options": [
+      "Round Robin",
+      "RSA",
+      "ARP",
+      "DNS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 174,
+    "category": "Operating Systems",
+    "prompt": "Thrashing occurs when?",
+    "options": [
+      "Excessive paging",
+      "CPU overheat",
+      "Network congestion",
+      "Power surge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 175,
+    "category": "Operating Systems",
+    "prompt": "Mutex ensures?",
+    "options": [
+      "Mutual exclusion",
+      "Faster I/O",
+      "Encryption",
+      "Compression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 176,
+    "category": "Operating Systems",
+    "prompt": "Context switch involves?",
+    "options": [
+      "Saving/restoring CPU state",
+      "Changing monitor input",
+      "Formatting disk",
+      "Defrag only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 177,
+    "category": "Operating Systems",
+    "prompt": "Virtual memory provides?",
+    "options": [
+      "Illusion of larger RAM",
+      "Faster CPU",
+      "GPU scheduling",
+      "Battery saving"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 178,
+    "category": "Operating Systems",
+    "prompt": "Which is a CPU scheduling algorithm?",
+    "options": [
+      "Round Robin",
+      "RSA",
+      "ARP",
+      "DNS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 179,
+    "category": "Operating Systems",
+    "prompt": "Thrashing occurs when?",
+    "options": [
+      "Excessive paging",
+      "CPU overheat",
+      "Network congestion",
+      "Power surge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 180,
+    "category": "Operating Systems",
+    "prompt": "Mutex ensures?",
+    "options": [
+      "Mutual exclusion",
+      "Faster I/O",
+      "Encryption",
+      "Compression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 181,
+    "category": "Networking",
+    "prompt": "TCP provides?",
+    "options": [
+      "Reliable ordered delivery",
+      "Unreliable datagrams",
+      "Routing only",
+      "Name resolution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 182,
+    "category": "Networking",
+    "prompt": "DNS translates?",
+    "options": [
+      "Domain names to IPs",
+      "Ports to protocols",
+      "MAC to IP",
+      "User to token"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 183,
+    "category": "Networking",
+    "prompt": "HTTP status 404 means?",
+    "options": [
+      "Not Found",
+      "OK",
+      "Unauthorized",
+      "Server Error"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 184,
+    "category": "Networking",
+    "prompt": "TLS provides?",
+    "options": [
+      "Encryption in transit",
+      "Compression",
+      "Load balancing",
+      "Caching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 185,
+    "category": "Networking",
+    "prompt": "OSI layer for routing?",
+    "options": [
+      "Network",
+      "Transport",
+      "Data Link",
+      "Session"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 186,
+    "category": "Networking",
+    "prompt": "Default HTTP port?",
+    "options": [
+      "80",
+      "21",
+      "25",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 187,
+    "category": "Networking",
+    "prompt": "TCP provides?",
+    "options": [
+      "Reliable ordered delivery",
+      "Unreliable datagrams",
+      "Routing only",
+      "Name resolution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 188,
+    "category": "Networking",
+    "prompt": "DNS translates?",
+    "options": [
+      "Domain names to IPs",
+      "Ports to protocols",
+      "MAC to IP",
+      "User to token"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 189,
+    "category": "Networking",
+    "prompt": "HTTP status 404 means?",
+    "options": [
+      "Not Found",
+      "OK",
+      "Unauthorized",
+      "Server Error"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 190,
+    "category": "Networking",
+    "prompt": "TLS provides?",
+    "options": [
+      "Encryption in transit",
+      "Compression",
+      "Load balancing",
+      "Caching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 191,
+    "category": "Networking",
+    "prompt": "OSI layer for routing?",
+    "options": [
+      "Network",
+      "Transport",
+      "Data Link",
+      "Session"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 192,
+    "category": "Networking",
+    "prompt": "Default HTTP port?",
+    "options": [
+      "80",
+      "21",
+      "25",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 193,
+    "category": "Networking",
+    "prompt": "TCP provides?",
+    "options": [
+      "Reliable ordered delivery",
+      "Unreliable datagrams",
+      "Routing only",
+      "Name resolution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 194,
+    "category": "Networking",
+    "prompt": "DNS translates?",
+    "options": [
+      "Domain names to IPs",
+      "Ports to protocols",
+      "MAC to IP",
+      "User to token"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 195,
+    "category": "Networking",
+    "prompt": "HTTP status 404 means?",
+    "options": [
+      "Not Found",
+      "OK",
+      "Unauthorized",
+      "Server Error"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 196,
+    "category": "Networking",
+    "prompt": "TLS provides?",
+    "options": [
+      "Encryption in transit",
+      "Compression",
+      "Load balancing",
+      "Caching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 197,
+    "category": "Networking",
+    "prompt": "OSI layer for routing?",
+    "options": [
+      "Network",
+      "Transport",
+      "Data Link",
+      "Session"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 198,
+    "category": "Networking",
+    "prompt": "Default HTTP port?",
+    "options": [
+      "80",
+      "21",
+      "25",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 199,
+    "category": "Networking",
+    "prompt": "TCP provides?",
+    "options": [
+      "Reliable ordered delivery",
+      "Unreliable datagrams",
+      "Routing only",
+      "Name resolution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 200,
+    "category": "Networking",
+    "prompt": "DNS translates?",
+    "options": [
+      "Domain names to IPs",
+      "Ports to protocols",
+      "MAC to IP",
+      "User to token"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 201,
+    "category": "Networking",
+    "prompt": "HTTP status 404 means?",
+    "options": [
+      "Not Found",
+      "OK",
+      "Unauthorized",
+      "Server Error"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 202,
+    "category": "Networking",
+    "prompt": "TLS provides?",
+    "options": [
+      "Encryption in transit",
+      "Compression",
+      "Load balancing",
+      "Caching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 203,
+    "category": "Networking",
+    "prompt": "OSI layer for routing?",
+    "options": [
+      "Network",
+      "Transport",
+      "Data Link",
+      "Session"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 204,
+    "category": "Networking",
+    "prompt": "Default HTTP port?",
+    "options": [
+      "80",
+      "21",
+      "25",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 205,
+    "category": "Networking",
+    "prompt": "TCP provides?",
+    "options": [
+      "Reliable ordered delivery",
+      "Unreliable datagrams",
+      "Routing only",
+      "Name resolution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 206,
+    "category": "Networking",
+    "prompt": "DNS translates?",
+    "options": [
+      "Domain names to IPs",
+      "Ports to protocols",
+      "MAC to IP",
+      "User to token"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 207,
+    "category": "Networking",
+    "prompt": "HTTP status 404 means?",
+    "options": [
+      "Not Found",
+      "OK",
+      "Unauthorized",
+      "Server Error"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 208,
+    "category": "Networking",
+    "prompt": "TLS provides?",
+    "options": [
+      "Encryption in transit",
+      "Compression",
+      "Load balancing",
+      "Caching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 209,
+    "category": "Networking",
+    "prompt": "OSI layer for routing?",
+    "options": [
+      "Network",
+      "Transport",
+      "Data Link",
+      "Session"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 210,
+    "category": "Networking",
+    "prompt": "Default HTTP port?",
+    "options": [
+      "80",
+      "21",
+      "25",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 211,
+    "category": "Networking",
+    "prompt": "TCP provides?",
+    "options": [
+      "Reliable ordered delivery",
+      "Unreliable datagrams",
+      "Routing only",
+      "Name resolution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 212,
+    "category": "Networking",
+    "prompt": "DNS translates?",
+    "options": [
+      "Domain names to IPs",
+      "Ports to protocols",
+      "MAC to IP",
+      "User to token"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 213,
+    "category": "Networking",
+    "prompt": "HTTP status 404 means?",
+    "options": [
+      "Not Found",
+      "OK",
+      "Unauthorized",
+      "Server Error"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 214,
+    "category": "Networking",
+    "prompt": "TLS provides?",
+    "options": [
+      "Encryption in transit",
+      "Compression",
+      "Load balancing",
+      "Caching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 215,
+    "category": "Networking",
+    "prompt": "OSI layer for routing?",
+    "options": [
+      "Network",
+      "Transport",
+      "Data Link",
+      "Session"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 216,
+    "category": "Networking",
+    "prompt": "Default HTTP port?",
+    "options": [
+      "80",
+      "21",
+      "25",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 217,
+    "category": "Networking",
+    "prompt": "TCP provides?",
+    "options": [
+      "Reliable ordered delivery",
+      "Unreliable datagrams",
+      "Routing only",
+      "Name resolution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 218,
+    "category": "Networking",
+    "prompt": "DNS translates?",
+    "options": [
+      "Domain names to IPs",
+      "Ports to protocols",
+      "MAC to IP",
+      "User to token"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 219,
+    "category": "Networking",
+    "prompt": "HTTP status 404 means?",
+    "options": [
+      "Not Found",
+      "OK",
+      "Unauthorized",
+      "Server Error"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 220,
+    "category": "Networking",
+    "prompt": "TLS provides?",
+    "options": [
+      "Encryption in transit",
+      "Compression",
+      "Load balancing",
+      "Caching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 221,
+    "category": "Networking",
+    "prompt": "OSI layer for routing?",
+    "options": [
+      "Network",
+      "Transport",
+      "Data Link",
+      "Session"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 222,
+    "category": "Networking",
+    "prompt": "Default HTTP port?",
+    "options": [
+      "80",
+      "21",
+      "25",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 223,
+    "category": "Networking",
+    "prompt": "TCP provides?",
+    "options": [
+      "Reliable ordered delivery",
+      "Unreliable datagrams",
+      "Routing only",
+      "Name resolution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 224,
+    "category": "Networking",
+    "prompt": "DNS translates?",
+    "options": [
+      "Domain names to IPs",
+      "Ports to protocols",
+      "MAC to IP",
+      "User to token"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 225,
+    "category": "Networking",
+    "prompt": "HTTP status 404 means?",
+    "options": [
+      "Not Found",
+      "OK",
+      "Unauthorized",
+      "Server Error"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 226,
+    "category": "System Design",
+    "prompt": "Horizontal scaling means?",
+    "options": [
+      "Add more servers",
+      "Bigger single server",
+      "Add GPU",
+      "Upgrade NIC only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 227,
+    "category": "System Design",
+    "prompt": "CDN helps by?",
+    "options": [
+      "Serving content from edge",
+      "Encrypting DB",
+      "Scheduling CPU",
+      "Compiling code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 228,
+    "category": "System Design",
+    "prompt": "Cache improves performance by?",
+    "options": [
+      "Serving hot data fast",
+      "Compressing code",
+      "Reducing ports",
+      "More threads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 229,
+    "category": "System Design",
+    "prompt": "Message queues help?",
+    "options": [
+      "Decouple services",
+      "Encrypt traffic",
+      "Replace databases",
+      "Render UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 230,
+    "category": "System Design",
+    "prompt": "Read-heavy systems often use?",
+    "options": [
+      "Read replicas",
+      "Write-only nodes",
+      "FTP mirrors",
+      "SMTP relays"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 231,
+    "category": "System Design",
+    "prompt": "Horizontal scaling means?",
+    "options": [
+      "Add more servers",
+      "Bigger single server",
+      "Add GPU",
+      "Upgrade NIC only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 232,
+    "category": "System Design",
+    "prompt": "CDN helps by?",
+    "options": [
+      "Serving content from edge",
+      "Encrypting DB",
+      "Scheduling CPU",
+      "Compiling code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 233,
+    "category": "System Design",
+    "prompt": "Cache improves performance by?",
+    "options": [
+      "Serving hot data fast",
+      "Compressing code",
+      "Reducing ports",
+      "More threads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 234,
+    "category": "System Design",
+    "prompt": "Message queues help?",
+    "options": [
+      "Decouple services",
+      "Encrypt traffic",
+      "Replace databases",
+      "Render UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 235,
+    "category": "System Design",
+    "prompt": "Read-heavy systems often use?",
+    "options": [
+      "Read replicas",
+      "Write-only nodes",
+      "FTP mirrors",
+      "SMTP relays"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 236,
+    "category": "System Design",
+    "prompt": "Horizontal scaling means?",
+    "options": [
+      "Add more servers",
+      "Bigger single server",
+      "Add GPU",
+      "Upgrade NIC only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 237,
+    "category": "System Design",
+    "prompt": "CDN helps by?",
+    "options": [
+      "Serving content from edge",
+      "Encrypting DB",
+      "Scheduling CPU",
+      "Compiling code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 238,
+    "category": "System Design",
+    "prompt": "Cache improves performance by?",
+    "options": [
+      "Serving hot data fast",
+      "Compressing code",
+      "Reducing ports",
+      "More threads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 239,
+    "category": "System Design",
+    "prompt": "Message queues help?",
+    "options": [
+      "Decouple services",
+      "Encrypt traffic",
+      "Replace databases",
+      "Render UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 240,
+    "category": "System Design",
+    "prompt": "Read-heavy systems often use?",
+    "options": [
+      "Read replicas",
+      "Write-only nodes",
+      "FTP mirrors",
+      "SMTP relays"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 241,
+    "category": "System Design",
+    "prompt": "Horizontal scaling means?",
+    "options": [
+      "Add more servers",
+      "Bigger single server",
+      "Add GPU",
+      "Upgrade NIC only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 242,
+    "category": "System Design",
+    "prompt": "CDN helps by?",
+    "options": [
+      "Serving content from edge",
+      "Encrypting DB",
+      "Scheduling CPU",
+      "Compiling code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 243,
+    "category": "System Design",
+    "prompt": "Cache improves performance by?",
+    "options": [
+      "Serving hot data fast",
+      "Compressing code",
+      "Reducing ports",
+      "More threads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 244,
+    "category": "System Design",
+    "prompt": "Message queues help?",
+    "options": [
+      "Decouple services",
+      "Encrypt traffic",
+      "Replace databases",
+      "Render UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 245,
+    "category": "System Design",
+    "prompt": "Read-heavy systems often use?",
+    "options": [
+      "Read replicas",
+      "Write-only nodes",
+      "FTP mirrors",
+      "SMTP relays"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 246,
+    "category": "System Design",
+    "prompt": "Horizontal scaling means?",
+    "options": [
+      "Add more servers",
+      "Bigger single server",
+      "Add GPU",
+      "Upgrade NIC only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 247,
+    "category": "System Design",
+    "prompt": "CDN helps by?",
+    "options": [
+      "Serving content from edge",
+      "Encrypting DB",
+      "Scheduling CPU",
+      "Compiling code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 248,
+    "category": "System Design",
+    "prompt": "Cache improves performance by?",
+    "options": [
+      "Serving hot data fast",
+      "Compressing code",
+      "Reducing ports",
+      "More threads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 249,
+    "category": "System Design",
+    "prompt": "Message queues help?",
+    "options": [
+      "Decouple services",
+      "Encrypt traffic",
+      "Replace databases",
+      "Render UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 250,
+    "category": "System Design",
+    "prompt": "Read-heavy systems often use?",
+    "options": [
+      "Read replicas",
+      "Write-only nodes",
+      "FTP mirrors",
+      "SMTP relays"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 251,
+    "category": "System Design",
+    "prompt": "Horizontal scaling means?",
+    "options": [
+      "Add more servers",
+      "Bigger single server",
+      "Add GPU",
+      "Upgrade NIC only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 252,
+    "category": "System Design",
+    "prompt": "CDN helps by?",
+    "options": [
+      "Serving content from edge",
+      "Encrypting DB",
+      "Scheduling CPU",
+      "Compiling code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 253,
+    "category": "System Design",
+    "prompt": "Cache improves performance by?",
+    "options": [
+      "Serving hot data fast",
+      "Compressing code",
+      "Reducing ports",
+      "More threads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 254,
+    "category": "System Design",
+    "prompt": "Message queues help?",
+    "options": [
+      "Decouple services",
+      "Encrypt traffic",
+      "Replace databases",
+      "Render UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 255,
+    "category": "System Design",
+    "prompt": "Read-heavy systems often use?",
+    "options": [
+      "Read replicas",
+      "Write-only nodes",
+      "FTP mirrors",
+      "SMTP relays"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 256,
+    "category": "System Design",
+    "prompt": "Horizontal scaling means?",
+    "options": [
+      "Add more servers",
+      "Bigger single server",
+      "Add GPU",
+      "Upgrade NIC only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 257,
+    "category": "System Design",
+    "prompt": "CDN helps by?",
+    "options": [
+      "Serving content from edge",
+      "Encrypting DB",
+      "Scheduling CPU",
+      "Compiling code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 258,
+    "category": "System Design",
+    "prompt": "Cache improves performance by?",
+    "options": [
+      "Serving hot data fast",
+      "Compressing code",
+      "Reducing ports",
+      "More threads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 259,
+    "category": "System Design",
+    "prompt": "Message queues help?",
+    "options": [
+      "Decouple services",
+      "Encrypt traffic",
+      "Replace databases",
+      "Render UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 260,
+    "category": "System Design",
+    "prompt": "Read-heavy systems often use?",
+    "options": [
+      "Read replicas",
+      "Write-only nodes",
+      "FTP mirrors",
+      "SMTP relays"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 261,
+    "category": "System Design",
+    "prompt": "Horizontal scaling means?",
+    "options": [
+      "Add more servers",
+      "Bigger single server",
+      "Add GPU",
+      "Upgrade NIC only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 262,
+    "category": "System Design",
+    "prompt": "CDN helps by?",
+    "options": [
+      "Serving content from edge",
+      "Encrypting DB",
+      "Scheduling CPU",
+      "Compiling code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 263,
+    "category": "System Design",
+    "prompt": "Cache improves performance by?",
+    "options": [
+      "Serving hot data fast",
+      "Compressing code",
+      "Reducing ports",
+      "More threads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 264,
+    "category": "System Design",
+    "prompt": "Message queues help?",
+    "options": [
+      "Decouple services",
+      "Encrypt traffic",
+      "Replace databases",
+      "Render UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 265,
+    "category": "System Design",
+    "prompt": "Read-heavy systems often use?",
+    "options": [
+      "Read replicas",
+      "Write-only nodes",
+      "FTP mirrors",
+      "SMTP relays"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 266,
+    "category": "System Design",
+    "prompt": "Horizontal scaling means?",
+    "options": [
+      "Add more servers",
+      "Bigger single server",
+      "Add GPU",
+      "Upgrade NIC only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 267,
+    "category": "System Design",
+    "prompt": "CDN helps by?",
+    "options": [
+      "Serving content from edge",
+      "Encrypting DB",
+      "Scheduling CPU",
+      "Compiling code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 268,
+    "category": "System Design",
+    "prompt": "Cache improves performance by?",
+    "options": [
+      "Serving hot data fast",
+      "Compressing code",
+      "Reducing ports",
+      "More threads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 269,
+    "category": "System Design",
+    "prompt": "Message queues help?",
+    "options": [
+      "Decouple services",
+      "Encrypt traffic",
+      "Replace databases",
+      "Render UI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 270,
+    "category": "System Design",
+    "prompt": "Read-heavy systems often use?",
+    "options": [
+      "Read replicas",
+      "Write-only nodes",
+      "FTP mirrors",
+      "SMTP relays"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 271,
+    "category": "Coding",
+    "prompt": "Binary search requires?",
+    "options": [
+      "Sorted collection",
+      "Hashing",
+      "Graph",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 272,
+    "category": "Coding",
+    "prompt": "Stable sort preserves?",
+    "options": [
+      "Relative order of equals",
+      "O(1) space",
+      "In-place swap",
+      "Heap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 273,
+    "category": "Coding",
+    "prompt": "Recursion uses?",
+    "options": [
+      "Call stack",
+      "Heap only",
+      "GPU cores",
+      "NIC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 274,
+    "category": "Coding",
+    "prompt": "Off-by-one errors occur with?",
+    "options": [
+      "Incorrect loop bounds",
+      "Type casting",
+      "I/O buffering",
+      "Thread locks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 275,
+    "category": "Coding",
+    "prompt": "Immutability helps with?",
+    "options": [
+      "Thread safety",
+      "Disk speed",
+      "GPU load",
+      "Power usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 276,
+    "category": "Coding",
+    "prompt": "Binary search requires?",
+    "options": [
+      "Sorted collection",
+      "Hashing",
+      "Graph",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 277,
+    "category": "Coding",
+    "prompt": "Stable sort preserves?",
+    "options": [
+      "Relative order of equals",
+      "O(1) space",
+      "In-place swap",
+      "Heap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 278,
+    "category": "Coding",
+    "prompt": "Recursion uses?",
+    "options": [
+      "Call stack",
+      "Heap only",
+      "GPU cores",
+      "NIC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 279,
+    "category": "Coding",
+    "prompt": "Off-by-one errors occur with?",
+    "options": [
+      "Incorrect loop bounds",
+      "Type casting",
+      "I/O buffering",
+      "Thread locks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 280,
+    "category": "Coding",
+    "prompt": "Immutability helps with?",
+    "options": [
+      "Thread safety",
+      "Disk speed",
+      "GPU load",
+      "Power usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 281,
+    "category": "Coding",
+    "prompt": "Binary search requires?",
+    "options": [
+      "Sorted collection",
+      "Hashing",
+      "Graph",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 282,
+    "category": "Coding",
+    "prompt": "Stable sort preserves?",
+    "options": [
+      "Relative order of equals",
+      "O(1) space",
+      "In-place swap",
+      "Heap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 283,
+    "category": "Coding",
+    "prompt": "Recursion uses?",
+    "options": [
+      "Call stack",
+      "Heap only",
+      "GPU cores",
+      "NIC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 284,
+    "category": "Coding",
+    "prompt": "Off-by-one errors occur with?",
+    "options": [
+      "Incorrect loop bounds",
+      "Type casting",
+      "I/O buffering",
+      "Thread locks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 285,
+    "category": "Coding",
+    "prompt": "Immutability helps with?",
+    "options": [
+      "Thread safety",
+      "Disk speed",
+      "GPU load",
+      "Power usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 286,
+    "category": "Coding",
+    "prompt": "Binary search requires?",
+    "options": [
+      "Sorted collection",
+      "Hashing",
+      "Graph",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 287,
+    "category": "Coding",
+    "prompt": "Stable sort preserves?",
+    "options": [
+      "Relative order of equals",
+      "O(1) space",
+      "In-place swap",
+      "Heap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 288,
+    "category": "Coding",
+    "prompt": "Recursion uses?",
+    "options": [
+      "Call stack",
+      "Heap only",
+      "GPU cores",
+      "NIC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 289,
+    "category": "Coding",
+    "prompt": "Off-by-one errors occur with?",
+    "options": [
+      "Incorrect loop bounds",
+      "Type casting",
+      "I/O buffering",
+      "Thread locks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 290,
+    "category": "Coding",
+    "prompt": "Immutability helps with?",
+    "options": [
+      "Thread safety",
+      "Disk speed",
+      "GPU load",
+      "Power usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 291,
+    "category": "Coding",
+    "prompt": "Binary search requires?",
+    "options": [
+      "Sorted collection",
+      "Hashing",
+      "Graph",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 292,
+    "category": "Coding",
+    "prompt": "Stable sort preserves?",
+    "options": [
+      "Relative order of equals",
+      "O(1) space",
+      "In-place swap",
+      "Heap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 293,
+    "category": "Coding",
+    "prompt": "Recursion uses?",
+    "options": [
+      "Call stack",
+      "Heap only",
+      "GPU cores",
+      "NIC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 294,
+    "category": "Coding",
+    "prompt": "Off-by-one errors occur with?",
+    "options": [
+      "Incorrect loop bounds",
+      "Type casting",
+      "I/O buffering",
+      "Thread locks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 295,
+    "category": "Coding",
+    "prompt": "Immutability helps with?",
+    "options": [
+      "Thread safety",
+      "Disk speed",
+      "GPU load",
+      "Power usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 296,
+    "category": "Coding",
+    "prompt": "Binary search requires?",
+    "options": [
+      "Sorted collection",
+      "Hashing",
+      "Graph",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 297,
+    "category": "Coding",
+    "prompt": "Stable sort preserves?",
+    "options": [
+      "Relative order of equals",
+      "O(1) space",
+      "In-place swap",
+      "Heap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 298,
+    "category": "Coding",
+    "prompt": "Recursion uses?",
+    "options": [
+      "Call stack",
+      "Heap only",
+      "GPU cores",
+      "NIC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 299,
+    "category": "Coding",
+    "prompt": "Off-by-one errors occur with?",
+    "options": [
+      "Incorrect loop bounds",
+      "Type casting",
+      "I/O buffering",
+      "Thread locks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 300,
+    "category": "Coding",
+    "prompt": "Immutability helps with?",
+    "options": [
+      "Thread safety",
+      "Disk speed",
+      "GPU load",
+      "Power usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 301,
+    "category": "Coding",
+    "prompt": "Binary search requires?",
+    "options": [
+      "Sorted collection",
+      "Hashing",
+      "Graph",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 302,
+    "category": "Coding",
+    "prompt": "Stable sort preserves?",
+    "options": [
+      "Relative order of equals",
+      "O(1) space",
+      "In-place swap",
+      "Heap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 303,
+    "category": "Coding",
+    "prompt": "Recursion uses?",
+    "options": [
+      "Call stack",
+      "Heap only",
+      "GPU cores",
+      "NIC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 304,
+    "category": "Coding",
+    "prompt": "Off-by-one errors occur with?",
+    "options": [
+      "Incorrect loop bounds",
+      "Type casting",
+      "I/O buffering",
+      "Thread locks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 305,
+    "category": "Coding",
+    "prompt": "Immutability helps with?",
+    "options": [
+      "Thread safety",
+      "Disk speed",
+      "GPU load",
+      "Power usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 306,
+    "category": "Coding",
+    "prompt": "Binary search requires?",
+    "options": [
+      "Sorted collection",
+      "Hashing",
+      "Graph",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 307,
+    "category": "Coding",
+    "prompt": "Stable sort preserves?",
+    "options": [
+      "Relative order of equals",
+      "O(1) space",
+      "In-place swap",
+      "Heap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 308,
+    "category": "Coding",
+    "prompt": "Recursion uses?",
+    "options": [
+      "Call stack",
+      "Heap only",
+      "GPU cores",
+      "NIC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 309,
+    "category": "Coding",
+    "prompt": "Off-by-one errors occur with?",
+    "options": [
+      "Incorrect loop bounds",
+      "Type casting",
+      "I/O buffering",
+      "Thread locks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 310,
+    "category": "Coding",
+    "prompt": "Immutability helps with?",
+    "options": [
+      "Thread safety",
+      "Disk speed",
+      "GPU load",
+      "Power usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 311,
+    "category": "Coding",
+    "prompt": "Binary search requires?",
+    "options": [
+      "Sorted collection",
+      "Hashing",
+      "Graph",
+      "Trie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 312,
+    "category": "Coding",
+    "prompt": "Stable sort preserves?",
+    "options": [
+      "Relative order of equals",
+      "O(1) space",
+      "In-place swap",
+      "Heap"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 313,
+    "category": "Coding",
+    "prompt": "Recursion uses?",
+    "options": [
+      "Call stack",
+      "Heap only",
+      "GPU cores",
+      "NIC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 314,
+    "category": "Coding",
+    "prompt": "Off-by-one errors occur with?",
+    "options": [
+      "Incorrect loop bounds",
+      "Type casting",
+      "I/O buffering",
+      "Thread locks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 315,
+    "category": "Coding",
+    "prompt": "Immutability helps with?",
+    "options": [
+      "Thread safety",
+      "Disk speed",
+      "GPU load",
+      "Power usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 316,
+    "category": "Web",
+    "prompt": "REST uses which HTTP verb for idempotent updates?",
+    "options": [
+      "PUT",
+      "POST",
+      "PATCH",
+      "CONNECT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 317,
+    "category": "Web",
+    "prompt": "CORS primarily controls?",
+    "options": [
+      "Cross-origin requests",
+      "CSS layout",
+      "DNS cache",
+      "TLS handshake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 318,
+    "category": "Web",
+    "prompt": "Cookie marked HttpOnly prevents?",
+    "options": [
+      "JS access to cookie",
+      "HTTPS",
+      "Caching",
+      "Uploads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 319,
+    "category": "Web",
+    "prompt": "Status 201 Created is for?",
+    "options": [
+      "Successful resource creation",
+      "Partial content",
+      "Moved permanently",
+      "Too many requests"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 320,
+    "category": "Web",
+    "prompt": "Service Workers enable?",
+    "options": [
+      "Offline capabilities",
+      "SQL joins",
+      "File system drivers",
+      "Kernel modules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 321,
+    "category": "Web",
+    "prompt": "REST uses which HTTP verb for idempotent updates?",
+    "options": [
+      "PUT",
+      "POST",
+      "PATCH",
+      "CONNECT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 322,
+    "category": "Web",
+    "prompt": "CORS primarily controls?",
+    "options": [
+      "Cross-origin requests",
+      "CSS layout",
+      "DNS cache",
+      "TLS handshake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 323,
+    "category": "Web",
+    "prompt": "Cookie marked HttpOnly prevents?",
+    "options": [
+      "JS access to cookie",
+      "HTTPS",
+      "Caching",
+      "Uploads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 324,
+    "category": "Web",
+    "prompt": "Status 201 Created is for?",
+    "options": [
+      "Successful resource creation",
+      "Partial content",
+      "Moved permanently",
+      "Too many requests"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 325,
+    "category": "Web",
+    "prompt": "Service Workers enable?",
+    "options": [
+      "Offline capabilities",
+      "SQL joins",
+      "File system drivers",
+      "Kernel modules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 326,
+    "category": "Web",
+    "prompt": "REST uses which HTTP verb for idempotent updates?",
+    "options": [
+      "PUT",
+      "POST",
+      "PATCH",
+      "CONNECT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 327,
+    "category": "Web",
+    "prompt": "CORS primarily controls?",
+    "options": [
+      "Cross-origin requests",
+      "CSS layout",
+      "DNS cache",
+      "TLS handshake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 328,
+    "category": "Web",
+    "prompt": "Cookie marked HttpOnly prevents?",
+    "options": [
+      "JS access to cookie",
+      "HTTPS",
+      "Caching",
+      "Uploads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 329,
+    "category": "Web",
+    "prompt": "Status 201 Created is for?",
+    "options": [
+      "Successful resource creation",
+      "Partial content",
+      "Moved permanently",
+      "Too many requests"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 330,
+    "category": "Web",
+    "prompt": "Service Workers enable?",
+    "options": [
+      "Offline capabilities",
+      "SQL joins",
+      "File system drivers",
+      "Kernel modules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 331,
+    "category": "Web",
+    "prompt": "REST uses which HTTP verb for idempotent updates?",
+    "options": [
+      "PUT",
+      "POST",
+      "PATCH",
+      "CONNECT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 332,
+    "category": "Web",
+    "prompt": "CORS primarily controls?",
+    "options": [
+      "Cross-origin requests",
+      "CSS layout",
+      "DNS cache",
+      "TLS handshake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 333,
+    "category": "Web",
+    "prompt": "Cookie marked HttpOnly prevents?",
+    "options": [
+      "JS access to cookie",
+      "HTTPS",
+      "Caching",
+      "Uploads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 334,
+    "category": "Web",
+    "prompt": "Status 201 Created is for?",
+    "options": [
+      "Successful resource creation",
+      "Partial content",
+      "Moved permanently",
+      "Too many requests"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 335,
+    "category": "Web",
+    "prompt": "Service Workers enable?",
+    "options": [
+      "Offline capabilities",
+      "SQL joins",
+      "File system drivers",
+      "Kernel modules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 336,
+    "category": "Web",
+    "prompt": "REST uses which HTTP verb for idempotent updates?",
+    "options": [
+      "PUT",
+      "POST",
+      "PATCH",
+      "CONNECT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 337,
+    "category": "Web",
+    "prompt": "CORS primarily controls?",
+    "options": [
+      "Cross-origin requests",
+      "CSS layout",
+      "DNS cache",
+      "TLS handshake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 338,
+    "category": "Web",
+    "prompt": "Cookie marked HttpOnly prevents?",
+    "options": [
+      "JS access to cookie",
+      "HTTPS",
+      "Caching",
+      "Uploads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 339,
+    "category": "Web",
+    "prompt": "Status 201 Created is for?",
+    "options": [
+      "Successful resource creation",
+      "Partial content",
+      "Moved permanently",
+      "Too many requests"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 340,
+    "category": "Web",
+    "prompt": "Service Workers enable?",
+    "options": [
+      "Offline capabilities",
+      "SQL joins",
+      "File system drivers",
+      "Kernel modules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 341,
+    "category": "Web",
+    "prompt": "REST uses which HTTP verb for idempotent updates?",
+    "options": [
+      "PUT",
+      "POST",
+      "PATCH",
+      "CONNECT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 342,
+    "category": "Web",
+    "prompt": "CORS primarily controls?",
+    "options": [
+      "Cross-origin requests",
+      "CSS layout",
+      "DNS cache",
+      "TLS handshake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 343,
+    "category": "Web",
+    "prompt": "Cookie marked HttpOnly prevents?",
+    "options": [
+      "JS access to cookie",
+      "HTTPS",
+      "Caching",
+      "Uploads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 344,
+    "category": "Web",
+    "prompt": "Status 201 Created is for?",
+    "options": [
+      "Successful resource creation",
+      "Partial content",
+      "Moved permanently",
+      "Too many requests"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 345,
+    "category": "Web",
+    "prompt": "Service Workers enable?",
+    "options": [
+      "Offline capabilities",
+      "SQL joins",
+      "File system drivers",
+      "Kernel modules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 346,
+    "category": "Web",
+    "prompt": "REST uses which HTTP verb for idempotent updates?",
+    "options": [
+      "PUT",
+      "POST",
+      "PATCH",
+      "CONNECT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 347,
+    "category": "Web",
+    "prompt": "CORS primarily controls?",
+    "options": [
+      "Cross-origin requests",
+      "CSS layout",
+      "DNS cache",
+      "TLS handshake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 348,
+    "category": "Web",
+    "prompt": "Cookie marked HttpOnly prevents?",
+    "options": [
+      "JS access to cookie",
+      "HTTPS",
+      "Caching",
+      "Uploads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 349,
+    "category": "Web",
+    "prompt": "Status 201 Created is for?",
+    "options": [
+      "Successful resource creation",
+      "Partial content",
+      "Moved permanently",
+      "Too many requests"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 350,
+    "category": "Web",
+    "prompt": "Service Workers enable?",
+    "options": [
+      "Offline capabilities",
+      "SQL joins",
+      "File system drivers",
+      "Kernel modules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 351,
+    "category": "Web",
+    "prompt": "REST uses which HTTP verb for idempotent updates?",
+    "options": [
+      "PUT",
+      "POST",
+      "PATCH",
+      "CONNECT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 352,
+    "category": "Web",
+    "prompt": "CORS primarily controls?",
+    "options": [
+      "Cross-origin requests",
+      "CSS layout",
+      "DNS cache",
+      "TLS handshake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 353,
+    "category": "Web",
+    "prompt": "Cookie marked HttpOnly prevents?",
+    "options": [
+      "JS access to cookie",
+      "HTTPS",
+      "Caching",
+      "Uploads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 354,
+    "category": "Web",
+    "prompt": "Status 201 Created is for?",
+    "options": [
+      "Successful resource creation",
+      "Partial content",
+      "Moved permanently",
+      "Too many requests"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 355,
+    "category": "Web",
+    "prompt": "Service Workers enable?",
+    "options": [
+      "Offline capabilities",
+      "SQL joins",
+      "File system drivers",
+      "Kernel modules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 356,
+    "category": "Web",
+    "prompt": "REST uses which HTTP verb for idempotent updates?",
+    "options": [
+      "PUT",
+      "POST",
+      "PATCH",
+      "CONNECT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 357,
+    "category": "Web",
+    "prompt": "CORS primarily controls?",
+    "options": [
+      "Cross-origin requests",
+      "CSS layout",
+      "DNS cache",
+      "TLS handshake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 358,
+    "category": "Web",
+    "prompt": "Cookie marked HttpOnly prevents?",
+    "options": [
+      "JS access to cookie",
+      "HTTPS",
+      "Caching",
+      "Uploads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 359,
+    "category": "Web",
+    "prompt": "Status 201 Created is for?",
+    "options": [
+      "Successful resource creation",
+      "Partial content",
+      "Moved permanently",
+      "Too many requests"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 360,
+    "category": "Web",
+    "prompt": "Service Workers enable?",
+    "options": [
+      "Offline capabilities",
+      "SQL joins",
+      "File system drivers",
+      "Kernel modules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 361,
+    "category": "AI/ML",
+    "prompt": "Supervised learning uses?",
+    "options": [
+      "Labeled data",
+      "Unlabeled data",
+      "No data",
+      "Only images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 362,
+    "category": "AI/ML",
+    "prompt": "Overfitting means?",
+    "options": [
+      "Model memorizes training data",
+      "Model undertrains",
+      "Noisy labels fixed",
+      "Perfect generalization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 363,
+    "category": "AI/ML",
+    "prompt": "Regularization helps?",
+    "options": [
+      "Reduce overfitting",
+      "Increase overfitting",
+      "Speed up network",
+      "Compress files"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 364,
+    "category": "AI/ML",
+    "prompt": "Gradient descent optimizes by?",
+    "options": [
+      "Iterative parameter updates",
+      "Random guessing",
+      "Exhaustive search",
+      "Quantum jumps"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 365,
+    "category": "AI/ML",
+    "prompt": "Classification outputs?",
+    "options": [
+      "Discrete labels",
+      "Continuous values",
+      "SQL rows",
+      "Packets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 366,
+    "category": "AI/ML",
+    "prompt": "Supervised learning uses?",
+    "options": [
+      "Labeled data",
+      "Unlabeled data",
+      "No data",
+      "Only images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 367,
+    "category": "AI/ML",
+    "prompt": "Overfitting means?",
+    "options": [
+      "Model memorizes training data",
+      "Model undertrains",
+      "Noisy labels fixed",
+      "Perfect generalization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 368,
+    "category": "AI/ML",
+    "prompt": "Regularization helps?",
+    "options": [
+      "Reduce overfitting",
+      "Increase overfitting",
+      "Speed up network",
+      "Compress files"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 369,
+    "category": "AI/ML",
+    "prompt": "Gradient descent optimizes by?",
+    "options": [
+      "Iterative parameter updates",
+      "Random guessing",
+      "Exhaustive search",
+      "Quantum jumps"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 370,
+    "category": "AI/ML",
+    "prompt": "Classification outputs?",
+    "options": [
+      "Discrete labels",
+      "Continuous values",
+      "SQL rows",
+      "Packets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 371,
+    "category": "AI/ML",
+    "prompt": "Supervised learning uses?",
+    "options": [
+      "Labeled data",
+      "Unlabeled data",
+      "No data",
+      "Only images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 372,
+    "category": "AI/ML",
+    "prompt": "Overfitting means?",
+    "options": [
+      "Model memorizes training data",
+      "Model undertrains",
+      "Noisy labels fixed",
+      "Perfect generalization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 373,
+    "category": "AI/ML",
+    "prompt": "Regularization helps?",
+    "options": [
+      "Reduce overfitting",
+      "Increase overfitting",
+      "Speed up network",
+      "Compress files"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 374,
+    "category": "AI/ML",
+    "prompt": "Gradient descent optimizes by?",
+    "options": [
+      "Iterative parameter updates",
+      "Random guessing",
+      "Exhaustive search",
+      "Quantum jumps"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 375,
+    "category": "AI/ML",
+    "prompt": "Classification outputs?",
+    "options": [
+      "Discrete labels",
+      "Continuous values",
+      "SQL rows",
+      "Packets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 376,
+    "category": "AI/ML",
+    "prompt": "Supervised learning uses?",
+    "options": [
+      "Labeled data",
+      "Unlabeled data",
+      "No data",
+      "Only images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 377,
+    "category": "AI/ML",
+    "prompt": "Overfitting means?",
+    "options": [
+      "Model memorizes training data",
+      "Model undertrains",
+      "Noisy labels fixed",
+      "Perfect generalization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 378,
+    "category": "AI/ML",
+    "prompt": "Regularization helps?",
+    "options": [
+      "Reduce overfitting",
+      "Increase overfitting",
+      "Speed up network",
+      "Compress files"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 379,
+    "category": "AI/ML",
+    "prompt": "Gradient descent optimizes by?",
+    "options": [
+      "Iterative parameter updates",
+      "Random guessing",
+      "Exhaustive search",
+      "Quantum jumps"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 380,
+    "category": "AI/ML",
+    "prompt": "Classification outputs?",
+    "options": [
+      "Discrete labels",
+      "Continuous values",
+      "SQL rows",
+      "Packets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 381,
+    "category": "AI/ML",
+    "prompt": "Supervised learning uses?",
+    "options": [
+      "Labeled data",
+      "Unlabeled data",
+      "No data",
+      "Only images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 382,
+    "category": "AI/ML",
+    "prompt": "Overfitting means?",
+    "options": [
+      "Model memorizes training data",
+      "Model undertrains",
+      "Noisy labels fixed",
+      "Perfect generalization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 383,
+    "category": "AI/ML",
+    "prompt": "Regularization helps?",
+    "options": [
+      "Reduce overfitting",
+      "Increase overfitting",
+      "Speed up network",
+      "Compress files"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 384,
+    "category": "AI/ML",
+    "prompt": "Gradient descent optimizes by?",
+    "options": [
+      "Iterative parameter updates",
+      "Random guessing",
+      "Exhaustive search",
+      "Quantum jumps"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 385,
+    "category": "AI/ML",
+    "prompt": "Classification outputs?",
+    "options": [
+      "Discrete labels",
+      "Continuous values",
+      "SQL rows",
+      "Packets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 386,
+    "category": "AI/ML",
+    "prompt": "Supervised learning uses?",
+    "options": [
+      "Labeled data",
+      "Unlabeled data",
+      "No data",
+      "Only images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 387,
+    "category": "AI/ML",
+    "prompt": "Overfitting means?",
+    "options": [
+      "Model memorizes training data",
+      "Model undertrains",
+      "Noisy labels fixed",
+      "Perfect generalization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 388,
+    "category": "AI/ML",
+    "prompt": "Regularization helps?",
+    "options": [
+      "Reduce overfitting",
+      "Increase overfitting",
+      "Speed up network",
+      "Compress files"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 389,
+    "category": "AI/ML",
+    "prompt": "Gradient descent optimizes by?",
+    "options": [
+      "Iterative parameter updates",
+      "Random guessing",
+      "Exhaustive search",
+      "Quantum jumps"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 390,
+    "category": "AI/ML",
+    "prompt": "Classification outputs?",
+    "options": [
+      "Discrete labels",
+      "Continuous values",
+      "SQL rows",
+      "Packets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 391,
+    "category": "AI/ML",
+    "prompt": "Supervised learning uses?",
+    "options": [
+      "Labeled data",
+      "Unlabeled data",
+      "No data",
+      "Only images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 392,
+    "category": "AI/ML",
+    "prompt": "Overfitting means?",
+    "options": [
+      "Model memorizes training data",
+      "Model undertrains",
+      "Noisy labels fixed",
+      "Perfect generalization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 393,
+    "category": "AI/ML",
+    "prompt": "Regularization helps?",
+    "options": [
+      "Reduce overfitting",
+      "Increase overfitting",
+      "Speed up network",
+      "Compress files"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 394,
+    "category": "AI/ML",
+    "prompt": "Gradient descent optimizes by?",
+    "options": [
+      "Iterative parameter updates",
+      "Random guessing",
+      "Exhaustive search",
+      "Quantum jumps"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 395,
+    "category": "AI/ML",
+    "prompt": "Classification outputs?",
+    "options": [
+      "Discrete labels",
+      "Continuous values",
+      "SQL rows",
+      "Packets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 396,
+    "category": "AI/ML",
+    "prompt": "Supervised learning uses?",
+    "options": [
+      "Labeled data",
+      "Unlabeled data",
+      "No data",
+      "Only images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 397,
+    "category": "AI/ML",
+    "prompt": "Overfitting means?",
+    "options": [
+      "Model memorizes training data",
+      "Model undertrains",
+      "Noisy labels fixed",
+      "Perfect generalization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 398,
+    "category": "AI/ML",
+    "prompt": "Regularization helps?",
+    "options": [
+      "Reduce overfitting",
+      "Increase overfitting",
+      "Speed up network",
+      "Compress files"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 399,
+    "category": "AI/ML",
+    "prompt": "Gradient descent optimizes by?",
+    "options": [
+      "Iterative parameter updates",
+      "Random guessing",
+      "Exhaustive search",
+      "Quantum jumps"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 400,
+    "category": "AI/ML",
+    "prompt": "Classification outputs?",
+    "options": [
+      "Discrete labels",
+      "Continuous values",
+      "SQL rows",
+      "Packets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 401,
+    "category": "AI/ML",
+    "prompt": "Supervised learning uses?",
+    "options": [
+      "Labeled data",
+      "Unlabeled data",
+      "No data",
+      "Only images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 402,
+    "category": "AI/ML",
+    "prompt": "Overfitting means?",
+    "options": [
+      "Model memorizes training data",
+      "Model undertrains",
+      "Noisy labels fixed",
+      "Perfect generalization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 403,
+    "category": "AI/ML",
+    "prompt": "Regularization helps?",
+    "options": [
+      "Reduce overfitting",
+      "Increase overfitting",
+      "Speed up network",
+      "Compress files"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 404,
+    "category": "AI/ML",
+    "prompt": "Gradient descent optimizes by?",
+    "options": [
+      "Iterative parameter updates",
+      "Random guessing",
+      "Exhaustive search",
+      "Quantum jumps"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 405,
+    "category": "AI/ML",
+    "prompt": "Classification outputs?",
+    "options": [
+      "Discrete labels",
+      "Continuous values",
+      "SQL rows",
+      "Packets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 406,
+    "category": "Security",
+    "prompt": "HTTPS uses?",
+    "options": [
+      "TLS",
+      "FTP",
+      "Telnet",
+      "SMTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 407,
+    "category": "Security",
+    "prompt": "SQL injection mitigated by?",
+    "options": [
+      "Parameterized queries",
+      "String concat",
+      "Eval input",
+      "Disable DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 408,
+    "category": "Security",
+    "prompt": "XSS mitigated by?",
+    "options": [
+      "Output encoding",
+      "Port 443",
+      "DHCP",
+      "NTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 409,
+    "category": "Security",
+    "prompt": "Hash function property?",
+    "options": [
+      "One-way",
+      "Two-way",
+      "Lossless decode",
+      "Symmetric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 410,
+    "category": "Security",
+    "prompt": "MFA adds?",
+    "options": [
+      "Second factor",
+      "Faster CPU",
+      "Bigger RAM",
+      "More ports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 411,
+    "category": "Security",
+    "prompt": "HTTPS uses?",
+    "options": [
+      "TLS",
+      "FTP",
+      "Telnet",
+      "SMTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 412,
+    "category": "Security",
+    "prompt": "SQL injection mitigated by?",
+    "options": [
+      "Parameterized queries",
+      "String concat",
+      "Eval input",
+      "Disable DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 413,
+    "category": "Security",
+    "prompt": "XSS mitigated by?",
+    "options": [
+      "Output encoding",
+      "Port 443",
+      "DHCP",
+      "NTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 414,
+    "category": "Security",
+    "prompt": "Hash function property?",
+    "options": [
+      "One-way",
+      "Two-way",
+      "Lossless decode",
+      "Symmetric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 415,
+    "category": "Security",
+    "prompt": "MFA adds?",
+    "options": [
+      "Second factor",
+      "Faster CPU",
+      "Bigger RAM",
+      "More ports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 416,
+    "category": "Security",
+    "prompt": "HTTPS uses?",
+    "options": [
+      "TLS",
+      "FTP",
+      "Telnet",
+      "SMTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 417,
+    "category": "Security",
+    "prompt": "SQL injection mitigated by?",
+    "options": [
+      "Parameterized queries",
+      "String concat",
+      "Eval input",
+      "Disable DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 418,
+    "category": "Security",
+    "prompt": "XSS mitigated by?",
+    "options": [
+      "Output encoding",
+      "Port 443",
+      "DHCP",
+      "NTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 419,
+    "category": "Security",
+    "prompt": "Hash function property?",
+    "options": [
+      "One-way",
+      "Two-way",
+      "Lossless decode",
+      "Symmetric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 420,
+    "category": "Security",
+    "prompt": "MFA adds?",
+    "options": [
+      "Second factor",
+      "Faster CPU",
+      "Bigger RAM",
+      "More ports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 421,
+    "category": "Security",
+    "prompt": "HTTPS uses?",
+    "options": [
+      "TLS",
+      "FTP",
+      "Telnet",
+      "SMTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 422,
+    "category": "Security",
+    "prompt": "SQL injection mitigated by?",
+    "options": [
+      "Parameterized queries",
+      "String concat",
+      "Eval input",
+      "Disable DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 423,
+    "category": "Security",
+    "prompt": "XSS mitigated by?",
+    "options": [
+      "Output encoding",
+      "Port 443",
+      "DHCP",
+      "NTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 424,
+    "category": "Security",
+    "prompt": "Hash function property?",
+    "options": [
+      "One-way",
+      "Two-way",
+      "Lossless decode",
+      "Symmetric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 425,
+    "category": "Security",
+    "prompt": "MFA adds?",
+    "options": [
+      "Second factor",
+      "Faster CPU",
+      "Bigger RAM",
+      "More ports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 426,
+    "category": "Security",
+    "prompt": "HTTPS uses?",
+    "options": [
+      "TLS",
+      "FTP",
+      "Telnet",
+      "SMTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 427,
+    "category": "Security",
+    "prompt": "SQL injection mitigated by?",
+    "options": [
+      "Parameterized queries",
+      "String concat",
+      "Eval input",
+      "Disable DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 428,
+    "category": "Security",
+    "prompt": "XSS mitigated by?",
+    "options": [
+      "Output encoding",
+      "Port 443",
+      "DHCP",
+      "NTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 429,
+    "category": "Security",
+    "prompt": "Hash function property?",
+    "options": [
+      "One-way",
+      "Two-way",
+      "Lossless decode",
+      "Symmetric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 430,
+    "category": "Security",
+    "prompt": "MFA adds?",
+    "options": [
+      "Second factor",
+      "Faster CPU",
+      "Bigger RAM",
+      "More ports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 431,
+    "category": "Security",
+    "prompt": "HTTPS uses?",
+    "options": [
+      "TLS",
+      "FTP",
+      "Telnet",
+      "SMTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 432,
+    "category": "Security",
+    "prompt": "SQL injection mitigated by?",
+    "options": [
+      "Parameterized queries",
+      "String concat",
+      "Eval input",
+      "Disable DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 433,
+    "category": "Security",
+    "prompt": "XSS mitigated by?",
+    "options": [
+      "Output encoding",
+      "Port 443",
+      "DHCP",
+      "NTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 434,
+    "category": "Security",
+    "prompt": "Hash function property?",
+    "options": [
+      "One-way",
+      "Two-way",
+      "Lossless decode",
+      "Symmetric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 435,
+    "category": "Security",
+    "prompt": "MFA adds?",
+    "options": [
+      "Second factor",
+      "Faster CPU",
+      "Bigger RAM",
+      "More ports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 436,
+    "category": "Security",
+    "prompt": "HTTPS uses?",
+    "options": [
+      "TLS",
+      "FTP",
+      "Telnet",
+      "SMTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 437,
+    "category": "Security",
+    "prompt": "SQL injection mitigated by?",
+    "options": [
+      "Parameterized queries",
+      "String concat",
+      "Eval input",
+      "Disable DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 438,
+    "category": "Security",
+    "prompt": "XSS mitigated by?",
+    "options": [
+      "Output encoding",
+      "Port 443",
+      "DHCP",
+      "NTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 439,
+    "category": "Security",
+    "prompt": "Hash function property?",
+    "options": [
+      "One-way",
+      "Two-way",
+      "Lossless decode",
+      "Symmetric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 440,
+    "category": "Security",
+    "prompt": "MFA adds?",
+    "options": [
+      "Second factor",
+      "Faster CPU",
+      "Bigger RAM",
+      "More ports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 441,
+    "category": "Security",
+    "prompt": "HTTPS uses?",
+    "options": [
+      "TLS",
+      "FTP",
+      "Telnet",
+      "SMTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 442,
+    "category": "Security",
+    "prompt": "SQL injection mitigated by?",
+    "options": [
+      "Parameterized queries",
+      "String concat",
+      "Eval input",
+      "Disable DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 443,
+    "category": "Security",
+    "prompt": "XSS mitigated by?",
+    "options": [
+      "Output encoding",
+      "Port 443",
+      "DHCP",
+      "NTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 444,
+    "category": "Security",
+    "prompt": "Hash function property?",
+    "options": [
+      "One-way",
+      "Two-way",
+      "Lossless decode",
+      "Symmetric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 445,
+    "category": "Security",
+    "prompt": "MFA adds?",
+    "options": [
+      "Second factor",
+      "Faster CPU",
+      "Bigger RAM",
+      "More ports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 446,
+    "category": "Security",
+    "prompt": "HTTPS uses?",
+    "options": [
+      "TLS",
+      "FTP",
+      "Telnet",
+      "SMTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 447,
+    "category": "Security",
+    "prompt": "SQL injection mitigated by?",
+    "options": [
+      "Parameterized queries",
+      "String concat",
+      "Eval input",
+      "Disable DB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 448,
+    "category": "Security",
+    "prompt": "XSS mitigated by?",
+    "options": [
+      "Output encoding",
+      "Port 443",
+      "DHCP",
+      "NTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 449,
+    "category": "Security",
+    "prompt": "Hash function property?",
+    "options": [
+      "One-way",
+      "Two-way",
+      "Lossless decode",
+      "Symmetric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 450,
+    "category": "Security",
+    "prompt": "MFA adds?",
+    "options": [
+      "Second factor",
+      "Faster CPU",
+      "Bigger RAM",
+      "More ports"
+    ],
+    "correctIndex": 0
+  }
+]
