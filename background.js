@@ -34,7 +34,7 @@ async function openQuizIfNeeded(force=false) {
   const scheduled = new Date();
   scheduled.setHours(settings.hour, settings.minute, 0, 0);
   if (force || now >= scheduled) {
-    chrome.tabs.create({ url: chrome.runtime.getURL('quiz.html') });
+    chrome.tabs.create({ url: chrome.runtime.getURL('index.html') });
   }
 }
 
