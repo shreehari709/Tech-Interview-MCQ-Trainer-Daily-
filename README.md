@@ -29,12 +29,4 @@ An interactive **quiz app & Chrome extension** with **450+ real technical interv
 
 ---
 
-## 🌐 Hosting as a Website
-You can also host this project online.
 
-### GitHub Pages
-1. Fork/Clone this repo.
-2. Push your changes to the `main` branch.
-3. Go to **Settings > Pages**.
-4. Under "Source", select `main` branch and `/root`.
-5. Your quiz app will be live at:
